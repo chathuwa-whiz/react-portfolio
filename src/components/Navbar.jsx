@@ -19,7 +19,9 @@ export default function () {
               <FaGithub />
             </a>
             <FaTwitter />
-            <FaInstagram />
+            <a href='https://www.instagram.com/chathushkanavod'>
+              <FaInstagram />
+            </a>
         </div>
     </nav>
   )
